@@ -1,0 +1,37 @@
+Successfully forked as daemon
+15 May 2021 10:36:58: PID file: spool/p1.pid
+15 May 2021 10:36:59: Accepted connection, fd = 4
+15 May 2021 10:37:04: Created stream for input
+15 May 2021 10:37:04: File type is 'aaa'
+15 May 2021 10:37:04: Saving data to file spool/p1_aaa_1621089424.152099
+15 May 2021 10:37:04: Created stream for output
+15 May 2021 10:37:04: Bytes received: 21
+15 May 2021 10:37:04: Connection terminated
+15 May 2021 11:02:12: Accepted connection, fd = 4
+15 May 2021 11:02:17: Created stream for input
+15 May 2021 11:02:17: File type is 'aaa'
+15 May 2021 11:02:17: Saving data to file spool/p1_aaa_1621090937.926821
+15 May 2021 11:02:17: Created stream for output
+15 May 2021 11:02:17: Bytes received: 21
+15 May 2021 11:02:17: Connection terminated
+15 May 2021 11:02:22: Accepted connection, fd = 4
+15 May 2021 11:02:27: Created stream for input
+15 May 2021 11:02:28: File type is 'aaa'
+15 May 2021 11:02:28: Saving data to file spool/p1_aaa_1621090948.12608
+15 May 2021 11:02:28: Created stream for output
+15 May 2021 11:02:28: Bytes received: 21
+15 May 2021 11:02:28: Connection terminated
+15 May 2021 11:08:20: Accepted connection, fd = 4
+15 May 2021 11:08:25: Created stream for input
+15 May 2021 11:08:25: File type is 'aaa'
+15 May 2021 11:08:25: Saving data to file spool/p1_aaa_1621091305.309053
+15 May 2021 11:08:25: Created stream for output
+15 May 2021 11:08:25: Bytes received: 21
+15 May 2021 11:08:25: Connection terminated
+15 May 2021 11:10:58: Accepted connection, fd = 4
+15 May 2021 11:11:03: Created stream for input
+15 May 2021 11:11:03: File type is 'aaa'
+15 May 2021 11:11:03: Saving data to file spool/p1_aaa_1621091463.630893
+15 May 2021 11:11:03: Created stream for output
+15 May 2021 11:11:03: Bytes received: 21
+15 May 2021 11:11:03: Connection terminated

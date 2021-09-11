@@ -1,0 +1,9 @@
+Successfully forked as daemon
+15 May 2021 11:12:50: PID file: spool/delay_printer.pid
+15 May 2021 11:12:51: Accepted connection, fd = 4
+15 May 2021 11:12:56: Created stream for input
+15 May 2021 11:12:56: File type is 'aaa'
+15 May 2021 11:12:56: Saving data to file spool/delay_printer_aaa_1621091576.168237
+15 May 2021 11:12:56: Created stream for output
+15 May 2021 11:13:29: Bytes received: 285214
+15 May 2021 11:13:29: Connection terminated
